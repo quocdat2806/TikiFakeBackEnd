@@ -1,5 +1,4 @@
 // Import the Firebase SDK
-
 const { initializeApp } = require('firebase-admin/app');
 const firebaseConfig = {
   apiKey: "AIzaSyDrh5FVTGzGtdzKUld8bZDhqeaoxBb8uS0",
